@@ -9,6 +9,8 @@
   "author": "Tyler Matteo",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "passport": "^0.4.0",
+    "passport-twitter": "^1.0.4"
   }
 }
